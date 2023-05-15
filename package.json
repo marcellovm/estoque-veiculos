@@ -1,0 +1,26 @@
+{
+  "name": "estoque-veiculos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellovm/estoque-veiculos.git"
+  },
+  "author": "Marcello Victor Marinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcellovm/estoque-veiculos/issues"
+  },
+  "homepage": "https://github.com/marcellovm/estoque-veiculos#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
+}
