@@ -24,3 +24,6 @@
 - Preparar o arquivo de HTMl principal com as estrutura inicial
 
 - Preparar a estrutura de paginas componentizadas pelo Javascript
+
+- Para listar o elementos dentro do array executar o comando abaixo:
+`npx json-server --port 8000 --watch db.json`
